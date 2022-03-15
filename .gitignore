@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+ApiGateWay/bin/*
+ApiGateWay/pkg/*
+
+main
